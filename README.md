@@ -8,8 +8,8 @@ perhatikan bahwa anda butuh Leaflet.JS dan juga FileSaver.js
 untuk demo, silahkan download repo ini menjadi zip, lalu extract dan buka dengan QGIS
 
 ## screenshot
-[screenshot.jpg]
-file jgw adalah WorldFile untuk secreenshot nya, sedangkan file aux.xml adalah koordinat nya
+![screenshot.jpg](screenshot.jpg)
+file [jgw](screenshot.jgw) adalah WorldFile untuk secreenshot nya, sedangkan file aux.xml adalah koordinat nya
 
 dengan ini, Anda dapat membuka langsung file screenshot nya ke QGIS
 
